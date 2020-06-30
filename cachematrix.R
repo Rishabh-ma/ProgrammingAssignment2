@@ -43,8 +43,8 @@ cacheSolve <- function(x, ...) {
 
 
 ## Testing (while using example)
-B <- matrix(c(1,2,3,4),2,2)
-B1 <- makeCacheMatrix(B)
-cacheSolve(B1)
+##B <- matrix(c(1,2,3,4),2,2)
+##B1 <- makeCacheMatrix(B)
+##cacheSolve(B1)
 
 ##END
